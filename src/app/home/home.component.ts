@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { SrService } from '../sr/sr.service';
+import { List } from '../sr/list';
 
 @Component({
     selector: 'app-home',
@@ -12,10 +14,16 @@ export class HomeComponent implements OnInit {
         middle: false,
         right: false
     };
-
     focus;
     focus1;
-    constructor() { }
 
-    ngOnInit() {}
+    // from here
+    lists: List[];
+    constructor(private sr: SrService) { }
+    ngOnInit() {
+        this.sr.rlist().subscribe((lists: List[])=>{
+            this.lists = lists;
+            console.log(this.lists);
+          })
+    }
 }
