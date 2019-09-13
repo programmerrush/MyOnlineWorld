@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 11,
+    "info": "scholarship",
+    "image": "./assets/img/our/scholarship-mahadbt.jpg",
+    "name": "Scholarship",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+    }
+]

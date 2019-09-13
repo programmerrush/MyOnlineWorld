@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 4,
+      "info": "gumasta",
+      "image": "./assets/img/our/gumasta.jpeg",
+      "name": "Gumasta",
+      "color": "danger",
+      "buttonVal": "More...",
+      "desc": "Made here",
+      "badges": [
+        "df",
+        "dfddcd",
+        "ddcd65841f"
+      ],
+      "documentsReq": [
+        "Aadhar"
+      ]
+    }
+]

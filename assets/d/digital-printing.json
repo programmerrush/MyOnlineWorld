@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 2,
+      "info": "digital-printing",
+      "image": "./assets/img/our/Digital-Printing.jpg",
+      "name": "demo",
+      "color": "danger",
+      "buttonVal": "More...",
+      "desc": "Made here",
+      "badges": [
+        "df",
+        "dfddcd",
+        "ddcd65841f"
+      ],
+      "documentsReq": [
+        "Aadhar"
+      ]
+    }
+]
