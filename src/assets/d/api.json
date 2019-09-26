@@ -1,0 +1,257 @@
+[
+  {
+    "id": 0,
+    "info": "pan-card",
+    "image": "./assets/img/our/pan-card.jpg",
+    "name": "Pan Card",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 1,
+    "info": "caste-certificate",
+    "image": "./assets/img/our/caste-certificate.jpg",
+    "name": "Caste Certificate",
+    "color": "success",
+    "buttonVal": "More ...",
+    "desc": "Make Caste Certificate",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 2,
+    "info": "digital-printing",
+    "image": "./assets/img/our/Digital-Printing.jpg",
+    "name": "digital-printing",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 3,
+    "info": "driving-license",
+    "image": "./assets/img/our/driving-license.gif",
+    "name": "Driving License",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 4,
+    "info": "gumasta",
+    "image": "./assets/img/our/gumasta.jpeg",
+    "name": "Gumasta",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 5,
+    "info": "inventory-management",
+    "image": "./assets/img/our/Inventory-Management.jpg",
+    "name": "Inventory Management",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 6,
+    "info": "inventory",
+    "image": "./assets/img/our/inventory.jpeg",
+    "name": "inventory",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 7,
+    "info": "online-form",
+    "image": "./assets/img/our/online-form.jpeg",
+    "name": "Online Form",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 8,
+    "info": "online-resume",
+    "image": "./assets/img/our/Online-Resume.png",
+    "name": "Online Resume",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 9,
+    "info": "passport",
+    "image": "./assets/img/our/passport.png",
+    "name": "passport",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 10,
+    "info": "resume",
+    "image": "./assets/img/our/resume.jpg",
+    "name": "resume",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 11,
+    "info": "scholarship",
+    "image": "./assets/img/our/scholarship-mahadbt.jpg",
+    "name": "Scholarship",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 12,
+    "info": "thesis",
+    "image": "./assets/img/our/thesis.png",
+    "name": "thesis",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 13,
+    "info": "typing",
+    "image": "./assets/img/our/typing.jpeg",
+    "name": "typing",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  },
+  {
+    "id": 14,
+    "info": "web-design",
+    "image": "./assets/img/our/web-design.jpeg",
+    "name": "Web Design",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+  }
+]

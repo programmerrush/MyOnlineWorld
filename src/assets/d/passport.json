@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 9,
+    "info": "passport",
+    "image": "./assets/img/our/passport.png",
+    "name": "passport",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+    }
+]

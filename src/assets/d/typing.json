@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 13,
+    "info": "typing",
+    "image": "./assets/img/our/typing.jpeg",
+    "name": "typing",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+    }
+]

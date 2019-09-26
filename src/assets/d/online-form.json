@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 7,
+    "info": "online-form",
+    "image": "./assets/img/our/online-form.jpeg",
+    "name": "Online Form",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+    }
+]

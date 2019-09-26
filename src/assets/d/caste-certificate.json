@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 1,
+      "info": "caste-certificate",
+      "image": "./assets/img/our/caste-certificate.jpg",
+      "name": "Caste Certificate",
+      "color": "danger",
+      "buttonVal": "More...",
+      "desc": "Made here",
+      "badges": [
+        "df",
+        "dfddcd",
+        "ddcd65841f"
+      ],
+      "documentsReq": [
+        "Aadhar"
+      ]
+    }
+]

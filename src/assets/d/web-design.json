@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 14,
+    "info": "web-design",
+    "image": "./assets/img/our/web-design.jpeg",
+    "name": "Web Design",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+    }
+]

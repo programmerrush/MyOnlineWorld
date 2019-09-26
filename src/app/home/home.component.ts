@@ -23,7 +23,7 @@ export class HomeComponent implements OnInit {
     ngOnInit() {
         this.sr.rlist().subscribe((lists: List[])=>{
             this.lists = lists;
-            console.log(this.lists);
+            // console.log(this.lists);
           })
     }
 }

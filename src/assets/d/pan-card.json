@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 0,
+      "info": "pan-card",
+      "image": "./assets/img/our/pan-card.jpg",
+      "name": "Pan Card",
+      "color": "danger",
+      "buttonVal": "More...",
+      "desc": "Made here",
+      "badges": [
+        "df",
+        "dfddcd",
+        "ddcd65841f"
+      ],
+      "documentsReq": [
+        "Aadhar"
+      ]
+    }
+]

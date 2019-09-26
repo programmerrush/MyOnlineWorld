@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 
+
 import { FormsModule } from '@angular/forms';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { RouterModule } from '@angular/router';
@@ -15,6 +16,8 @@ import { HomeComponent } from './home/home.component';
 import { ServicesComponent } from './services/services.component';
 import { ProfileComponent } from './user/profile/profile.component';
 import { DetailsComponent } from './details/details.component';
+import { PersonsListComponent } from './persons-list/persons-list.component';
+import { AddNewPersonComponent } from './add-new-person/add-new-person.component';
 
 @NgModule({
   declarations: [
@@ -25,11 +28,13 @@ import { DetailsComponent } from './details/details.component';
     HomeComponent,
     ServicesComponent,
     ProfileComponent,
-    DetailsComponent
+    DetailsComponent,
+    PersonsListComponent,
+    AddNewPersonComponent
   ],
   imports: [
     BrowserModule,
-    NgbModule.forRoot(),
+    NgbModule,
     FormsModule,
     RouterModule,
     AppRoutingModule,

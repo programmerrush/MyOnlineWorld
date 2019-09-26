@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 8,
+    "info": "online-resume",
+    "image": "./assets/img/our/Online-Resume.png",
+    "name": "Online Resume",
+    "color": "danger",
+    "buttonVal": "More...",
+    "desc": "Made here",
+    "badges": [
+      "df",
+      "dfddcd",
+      "ddcd65841f"
+    ],
+    "documentsReq": [
+      "Aadhar"
+    ]
+    }
+]

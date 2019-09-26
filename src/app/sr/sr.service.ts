@@ -12,6 +12,11 @@ export class SrService {
   constructor(private httpClient: HttpClient) {  }
 
   rlist(): Observable<List[]>{
-    return this.httpClient.get<List[]>(`./assets/api.json`);
+    return this.httpClient.get<List[]>(`./assets/d/api.json`);
   }
+
+  alist(info): Observable<List[]>{
+    return this.httpClient.get<List[]>(`./assets/d/`+info+`.json`);
+  }
+
 }

@@ -1,0 +1,19 @@
+[ 
+    {
+      "id": 3,
+      "info": "driving-license",
+      "image": "./assets/img/our/driving-license.gif",
+      "name": "Driving License",
+      "color": "danger",
+      "buttonVal": "More...",
+      "desc": "Made here",
+      "badges": [
+        "df",
+        "dfddcd",
+        "ddcd65841f"
+      ],
+      "documentsReq": [
+        "Aadhar"
+      ]
+    }
+]
