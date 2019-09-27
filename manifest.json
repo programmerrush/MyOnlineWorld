@@ -1,9 +1,9 @@
 {
   "name": "MyOnlineWorld",
   "short_name": "MyOnlineWorld",
-  "theme_color": "#8449ac",
-  "background_color": "#4649b8",
-  "display": "fullscreen",
+  "theme_color": "#5795b9",
+  "background_color": "#5795b9",
+  "display": "standalone",
   "scope": "/",
   "start_url": "/",
   "icons": [
