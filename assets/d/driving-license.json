@@ -8,7 +8,11 @@
       "buttonVal": "More...",
       "desc": " ",
       "badges": [
-        "Aadhar"
+        "Birth Certificate",
+          "10th Marksheet",
+          "Aadhar Card",
+          "TC",
+          "Ration Card"
       ],
       "documentsReq": [
         "Aadhar"
