@@ -6,9 +6,14 @@
     "name": "passport",
     "color": "danger",
     "buttonVal": "More...",
-    "desc": " ",
+    "desc": " We Make your Passport easily. ",
     "badges": [
-      "Required Documents"
+      "Aadhar Card",
+        "Election Card",
+        "Birth Certificate",
+        "TC / Bonafied",
+        "PAN Card",
+        "Highest Qualification Marksheet"
     ],
     "documentsReq": [
       "Aadhar"
