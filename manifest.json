@@ -1,9 +1,9 @@
 {
+  "version" : "1.0.0.1",
   "name": "MyOnlineWorld",
   "short_name": "MyOnlineWorld",
-  "theme_color": "#5795b9",
-  "background_color": "#5795b9",
-  "display": "standalone",
+  "theme_color": "#d581d9",
+  "background_color": "#d581d9",
   "scope": "/",
   "start_url": "/",
   "icons": [
