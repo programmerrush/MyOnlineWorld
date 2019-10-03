@@ -1,7 +1,6 @@
 {
   "name": "MyOnlineWorld",
   "short_name": "MyOnlineWorld",
-  "description": "Make Online Works [PAN Card, Driving License] Easy With MyOnlineWorld",
   "theme_color": "#d581d9",
   "background_color": "#d581d9",
   "scope": "/",
