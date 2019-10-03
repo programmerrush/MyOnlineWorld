@@ -1,9 +1,9 @@
 [ 
     {
       "id": 1,
-      "info": "caste-certificate",
+      "info": "caste-validity",
       "image": "./assets/img/our/caste-certificate.jpg",
-      "name": "Caste Certificate",
+      "name": "Caste Validity",
       "color": "danger",
       "buttonVal": "More...",
       "desc": " ",
